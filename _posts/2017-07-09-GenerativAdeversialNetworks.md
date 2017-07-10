@@ -40,6 +40,8 @@ there are three approaches to generative nets
     3- Autoregressive models
     
 
+**Variational Autoencoders (VAEs)**
+allow us to formalize this problem in the framework of probabilistic graphical models where we are maximizing a lower bound on the log likelihood of the data.
 
 
 
