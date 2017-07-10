@@ -23,6 +23,7 @@ for theory of GANs go to [UBCCourse](http://wiki.ubc.ca/Course:CPSC522/Generativ
 
 
 
+
 the best and most sited article in GANs is [GoodFllow](https://arxiv.org/abs/1406.2661)
 
 abstract of  article:
