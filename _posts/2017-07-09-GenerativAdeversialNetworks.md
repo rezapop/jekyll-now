@@ -20,10 +20,6 @@ Below, we discuss a framework that uses neural networks to construct a generativ
 for theory of GANs go to [UBCCourse](http://wiki.ubc.ca/Course:CPSC522/Generative_Adversarial_Networks)
 
 
-
-
-
-
 the best and most sited article in GANs is [GoodFllow](https://arxiv.org/abs/1406.2661)
 
 abstract of  article:
