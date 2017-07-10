@@ -2,5 +2,12 @@
 published: true
 ---
 ## Generative Adeversial Networks
+
 How we can start with Generative Adversial Networks
-[GitHub](http://github.com/)
+
+best blog that i find is [openAI](https://blog.openai.com/generative-models/) 
+
+**what I find in this blog**
+
+
+
