@@ -35,8 +35,8 @@ best blog that i find is [openAI](https://blog.openai.com/generative-models/)
 **what I find on it**
 
 there are three approaches to generative nets
-	1- Generative Adversial Nets(GANs)
-    2- Variational Autoencoders(VAEs)
+	1- [Generative Adversial Nets(GANs)](https://arxiv.org/abs/1406.2661)
+    2- [Variational Autoencoders(VAEs) ](https://arxiv.org/abs/1312.6114)
     3- Autoregressive models
     
 
