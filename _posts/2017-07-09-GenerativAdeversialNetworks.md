@@ -11,3 +11,5 @@ best blog that i find is [openAI](https://blog.openai.com/generative-models/)
 
 
 
+
+
