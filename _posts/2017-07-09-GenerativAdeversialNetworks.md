@@ -6,7 +6,7 @@ published: true
 ### Road map for learning Generative Adeversial Networks
 
 **what is GANs**
-
+Generative Adversarial Networks[1] (GAN) is a framework for training generative models that use deep neural networks. The approach simultaneously trains a generative model alongside an adversarial discriminative model. The discriminative model tries to determine whether a sample comes from the true data distribution or from the generative model, while the goal of the generative model is to fool the discriminative model.
 
 the best and most sited article in GANs is [GoodFllow](https://arxiv.org/abs/1406.2661)
 
