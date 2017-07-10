@@ -45,6 +45,7 @@ allow us to formalize this problem in the framework of probabilistic graphical m
 
 
 ### Simulation VAEs with Tensorflow 
+	
 
 
 
