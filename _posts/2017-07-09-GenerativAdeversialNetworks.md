@@ -17,7 +17,7 @@ The main advantage of a generative model over discriminative models is the abili
 Below, we discuss a framework that uses neural networks to construct a generative model. Neural networks have been shown to perform spectacularly as discriminative models, usually in a classification setting where the inputs are high dimensional. GAN is a method that takes advantage of the performance of neural networks as discriminative models to aid in the training of a generative neural network.
 
 
-find compelet txt in [UBCCourse](http://wiki.ubc.ca/Course:CPSC522/Generative_Adversarial_Networks)
+for theory of GANs go to [UBCCourse](http://wiki.ubc.ca/Course:CPSC522/Generative_Adversarial_Networks)
 
 
 
