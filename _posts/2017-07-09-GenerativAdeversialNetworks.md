@@ -1,6 +1,5 @@
 ---
 published: false
 ---
-## Generativ Adeversial Networks
-
-
+## Generative Adeversial Networks
+How we can start with Generative Adversial Networks
