@@ -32,7 +32,8 @@ advantage and disadvantages ,traning results on some satabases
 
 best blog that i find is [openAI](https://blog.openai.com/generative-models/) 
 
-**what I find in this blog**
+**what I find on it**
+
 
 
 
