@@ -44,6 +44,9 @@ there are three approaches to generative nets
 allow us to formalize this problem in the framework of probabilistic graphical models where we are maximizing a lower bound on the log likelihood of the data.
 
 
+### Simulation VAEs with Tensorflow 
+
+
 
 
 
