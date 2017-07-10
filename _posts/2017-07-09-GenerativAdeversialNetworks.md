@@ -1,7 +1,6 @@
 ---
-published: true
+published: false
 ---
-## GenerativAdeversialNetworks
-vcxfgdgnv
-kjfbhfhg
-jf
+## Generativ Adeversial Networks
+
+
