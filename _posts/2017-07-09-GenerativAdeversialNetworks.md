@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Generative Adeversial Networks
 How we can start with Generative Adversial Networks
