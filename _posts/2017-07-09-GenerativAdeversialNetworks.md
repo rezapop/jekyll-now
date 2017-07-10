@@ -5,6 +5,9 @@ published: true
 
 ### Road map for learning Generative Adeversial Networks
 
+**what is GANs**
+
+
 the best and most sited article in GANs is [GoodFllow](https://arxiv.org/abs/1406.2661)
 
 abstract of  article:
