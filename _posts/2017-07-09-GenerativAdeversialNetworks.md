@@ -43,11 +43,10 @@ there are three approaches to generative nets
 **Variational Autoencoders (VAEs)**
 allow us to formalize this problem in the framework of probabilistic graphical models where we are maximizing a lower bound on the log likelihood of the data.
 
-
-### Simulation VAEs with Tensorflow 
-	
+Variational autoencoders (VAEs) were defined in 2013 by Kingma et al. and Rezende et al
 
 
 
+For more stydy see [link](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
 
-
+### Simulation VAEs with Tensorflow
