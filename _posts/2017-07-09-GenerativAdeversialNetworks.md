@@ -47,6 +47,6 @@ Variational autoencoders (VAEs) were defined in 2013 by Kingma et al. and Rezend
 
 
 
-For more stydy see [link](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
+For more study see [link](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
 
 ### Simulation VAEs with Tensorflow
