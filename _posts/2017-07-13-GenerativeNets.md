@@ -50,3 +50,13 @@ The network (in yellow) is made up of standard convolutional neural network comp
 
 DCGAN is initialized with random weights, so a random code plugged into the network would generate a completely random image. However, as you might imagine, the network hasmillions of parameters that we can tweak, and the goal is to find a setting of these parameters that makes samples generated from random codes look like the training data. Or to put it another way, we want the model distribution to match the true data distribution in the space of images.
 
+
+<a name="Variational-Autoencoders"></a>
+# Variational-Autoencoders
+
+Variational Autoencoders ([VAEs](https://arxiv.org/abs/1312.6114)) allow us to formalize this problem in the framework of probabilistic graphical models where we are maximizing a lower bound on the log likelihood of the data.
+
+Variational autoencoders (VAEs) were defined in 2013 by Kingma et al. and Rezende et al
+## Variational Autoencoder in TensorFlow
+
+
