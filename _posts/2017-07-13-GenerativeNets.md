@@ -57,19 +57,3 @@ Variational Autoencoders ([VAEs](https://arxiv.org/abs/1312.6114)) allow us to f
 Variational autoencoders (VAEs) were defined in 2013 by Kingma et al. and Rezende et al
 ## Variational Autoencoder in TensorFlow
 
-		import numpy as np
-		import tensorflow as tf
-
-		import matplotlib.pyplot as plt
-		%matplotlib inline
-
-		np.random.seed(0)
-		tf.set_random_seed(0)
-
-		# Load MNIST data in a format suited for tensorflow.
-        # The script input_data is available under this URL:
-        # https://raw.githubusercontent.com/tensorflow/tensorflow/master/tensorflow/examples/tutorials/mnist/input_data.py
-        #import input_data
-        from tensorflow.examples.tutorials.mnist import input_data
-        mnist = input_data.read_data_sets('/home/reza/DeepLearning/DataSets/MNIST/', one_hot=True)
-        n_samples = mnist.train.num_examples
