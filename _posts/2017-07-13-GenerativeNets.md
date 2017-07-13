@@ -6,8 +6,8 @@ published: false
 
 ## Learning Goals
 
-[Introduction]
-[Generative Adversarial Networks]
+	- [Introduction]
+	- [Generative Adversarial Networks]
     - [Variational Autoencoders]
     - [DCGAN]
     - [Extensions]
