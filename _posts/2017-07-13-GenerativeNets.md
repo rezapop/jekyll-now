@@ -56,3 +56,4 @@ Variational Autoencoders ([VAEs](https://arxiv.org/abs/1312.6114)) allow us to f
 
 Variational autoencoders (VAEs) were defined in 2013 by Kingma et al. and Rezende et al
 ## Variational Autoencoder in TensorFlow
+`myFunction`
