@@ -1,7 +1,7 @@
 ---
 published: true
 ---
--# Generative Models
+# Generative Models
 
 
 ## Learning Goals
@@ -52,5 +52,3 @@ DCGAN is initialized with random weights, so a random code plugged into the netw
 Variational Autoencoders ([VAEs](https://arxiv.org/abs/1312.6114)) allow us to formalize this problem in the framework of probabilistic graphical models where we are maximizing a lower bound on the log likelihood of the data.
 
 Variational autoencoders (VAEs) were defined in 2013 by Kingma et al. and Rezende et al
-
-
