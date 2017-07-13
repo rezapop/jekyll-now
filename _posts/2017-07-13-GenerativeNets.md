@@ -59,4 +59,11 @@ Variational Autoencoders ([VAEs](https://arxiv.org/abs/1312.6114)) allow us to f
 Variational autoencoders (VAEs) were defined in 2013 by Kingma et al. and Rezende et al
 ## Variational Autoencoder in TensorFlow
 
+	import numpy as np
+import tensorflow as tf
 
+import matplotlib.pyplot as plt
+%matplotlib inline
+
+np.random.seed(0)
+tf.set_random_seed(0)
