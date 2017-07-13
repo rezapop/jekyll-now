@@ -38,3 +38,15 @@ We describe the differences between discriminative and generative models. Suppos
 The main advantage of a generative model over discriminative models is the ability to generate samples from the distribution (supposing that the generative model is able to perfectly model the distribution). So while discriminative models are simpler to train, and typically performs better on most supervised tasks, generative models are more expressive as it approximates the true data distribution.
 
 Below, we discuss a framework that uses neural networks to construct a generative model. Neural networks have been shown to perform spectacularly as discriminative models, usually in a classification setting where the inputs are high dimensional. GAN is a method that takes advantage of the performance of neural networks as discriminative models to aid in the training of a generative neural network.
+
+
+<a name="DCGAN"></a>
+# Deep-Conv-GAN
+
+One such recent model is the DCGAN network from [Radford](https://github.com/Newmu/dcgan_code) et al. (shown below). This network takes as input 100 random numbers drawn from a uniform distribution (we refer to these as a code, or latent variables, in red) and outputs an image (in this case 64x64x3 images on the right, in green). As the code is changed incrementally, the generated images do too — this shows the model has learned features to describe how the world looks, rather than just memorizing some examples.
+
+The network (in yellow) is made up of standard convolutional neural network components, such as deconvolutional layers (reverse of convolutional layers), fully connected layers, etc.:
+![DCGAN](https://blog.openai.com/content/images/2017/02/gen_models_diag_1.svg)
+
+DCGAN is initialized with random weights, so a random code plugged into the network would generate a completely random image. However, as you might imagine, the network hasmillions of parameters that we can tweak, and the goal is to find a setting of these parameters that makes samples generated from random codes look like the training data. Or to put it another way, we want the model distribution to match the true data distribution in the space of images.
+
